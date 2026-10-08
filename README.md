@@ -54,8 +54,8 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 
 | Organization | Description |
 |--------------|-------------|
-| 🌐 [**My-Personal-Webs**](https://github.com/My-Personal-Webs) | A single home for all my personal web projects |
-| 📱 [**My-Mobile-Apps**](https://github.com/My-Personal-Mobile-Apps) | A single home for all my personal mobile apps |
+| 🌐 [**My Personal Webs**](https://github.com/My-Personal-Webs) | A single home for all my personal web projects |
+| 📱 [**My Personal Mobile Apps**](https://github.com/My-Personal-Mobile-Apps) | A single home for all my personal mobile apps |
 
 ---
 
