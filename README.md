@@ -17,13 +17,15 @@
 
 ## 🧑‍💻 About Me
 
-I'm a junior full stack software developer with a Higher Technician degree in Multiplatform Application Development (DAM). I enjoy building complete applications, from the backend to the frontend and mobile, and I'm currently expanding my skills in Artificial Intelligence and Big Data.
+I'm a junior full stack software developer with a Higher Technician degree in Multiplatform Application Development (DAM). I enjoy building complete applications, from the backend to the frontend and mobile. I'm currently expanding my skills in Artificial Intelligence and Big Data through an in-person specialization course, and on my own I'm also learning Godot Engine to get into game development.
 
 > 💡 **From idea to deployment**: I like taking a project through every stage of its life.
 
 - 🎓 **Education:** Higher Technician in Multiplatform Application Development (DAM)
 - 💼 **Role:** Junior Full Stack Developer
-- 🌱 **Currently learning:** Specialization course in **Artificial Intelligence & Big Data**
+- 🌱 **Currently learning:**
+  - 🤖 Specialization course in **Artificial Intelligence & Big Data** (in person)
+  - 🎮 **Game development with Godot Engine**, on my own
 
 ---
 
@@ -45,7 +47,7 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🗓️ **EventvsMerida** | Team project | 🔗 [Repository](https://github.com/Null-Pointers-Albarregas/EventvsMerida) |
+| 🗓️ **EventvsMerida** | Final degree project (TFG) developed as a team | 🔗 [Repository](https://github.com/Null-Pointers-Albarregas/EventvsMerida) |
 | 🖥️ **Portfolio XP** | Personal portfolio that recreates the Windows XP experience, built with Angular | 🔗 [Repository](https://github.com/My-Personal-Webs/Portfolio) |
 
 ---
@@ -56,6 +58,7 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 |--------------|-------------|
 | 🌐 [**My Personal Webs**](https://github.com/My-Personal-Webs) | A single home for all my personal web projects |
 | 📱 [**My Personal Mobile Apps**](https://github.com/My-Personal-Mobile-Apps) | A single home for all my personal mobile apps |
+| 🎮 [**My Personal Games**](https://github.com/My-Personal-Games) | A long-term home for my game development journey, just getting started with Godot |
 
 ---
 
