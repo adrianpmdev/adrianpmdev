@@ -8,7 +8,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-adrianpmdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianpmdev)
+[![Author](https://img.shields.io/badge/Author-adrianpmdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianpmdev)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_my_site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adrianpmdev-portfolio.vercel.app/)
 
 </div>
@@ -54,7 +54,7 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🗓️ **EventvsMerida** | Final degree project (TFG) developed as a team | 🔗 [Repository](https://github.com/Null-Pointers-Albarregas/EventvsMerida) |
-| 🖥️ **Portfolio XP** | Personal portfolio that recreates the Windows XP experience, built with Angular | 🔗 [Repository](https://github.com/My-Personal-Webs/Portfolio) |
+| 🖥️ **Portfolio XP** | Personal portfolio that recreates the Windows XP experience, built with Angular | 🔗 [Repository](https://github.com/Adrianpmdev-Personal-Webs/Portfolio) · 🌐 [Live Demo](https://adrianpmdev-portfolio.vercel.app/) |
 
 ---
 
