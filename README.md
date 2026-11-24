@@ -41,6 +41,7 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 | 📊 **Data & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | 🎨 **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
 | 📱 **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| 🎮 **Game Development** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white) |
 | 🗄️ **Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | ☁️ **Deployment** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | 🔧 **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
@@ -56,10 +57,15 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
   <img src="assets/web_projects.jpg" alt="Web Projects" width="280">
 </p>
 
+<div align="center">
+
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🖥️ **Portfolio XP** | Personal portfolio that recreates the Windows XP experience, built with Angular | 🔗 [Repository](https://github.com/adrianpmdev/Portfolio) · 🌐 [Live Demo](https://adrianpmdev-portfolio.vercel.app/) |
+| 🎮 **NTG System** | Private full stack platform where a group of friends tracks, organizes and plays the games they share, with modular game features | 🔗 [Repository](https://github.com/adrianpmdev/NTG) |
 | 📋 **Task Manager** | Web app to organize clients and track their tasks | 🔗 [Repository](https://github.com/adrianpmdev/task-manager) |
+
+</div>
 
 <br>
 
@@ -67,10 +73,15 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
   <img src="assets/app_projects.jpg" alt="App Projects" width="280">
 </p>
 
+<div align="center">
+
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🗓️ **EventvsMerida** | Mobile app that brings together the cultural and leisure agenda of Mérida, developed as a team | 🔗 [Repository](https://github.com/Null-Pointers-Albarregas/EventvsMerida) |
+| 🎵 **Spotify2** | Educational Android music app inspired by Spotify | 🔗 [Repository](https://github.com/adrianpmdev/Spotify2) |
 | ⏱️ **Time Tracker** | Mobile app to log the hours spent on each project | 🔗 [Repository](https://github.com/adrianpmdev/time-tracker) |
+
+</div>
 
 <br>
 
@@ -78,9 +89,13 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
   <img src="assets/game_projects.jpg" alt="Game Projects" width="280">
 </p>
 
+<div align="center">
+
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🕹️ **Coming soon** | Learning game development with Godot Engine | |
+
+</div>
 
 <br>
 
@@ -88,10 +103,14 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
   <img src="assets/data_ai_services_projects.jpg" alt="Data, AI & Services Projects" width="280">
 </p>
 
+<div align="center">
+
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🔗 **Link Checker** | Service that periodically checks that product links still work | 🔗 [Repository](https://github.com/adrianpmdev/link-checker) |
 | 📊 **Click Reports** | Service that turns product clicks into simple statistics and CSV reports | 🔗 [Repository](https://github.com/adrianpmdev/click-reports) |
+
+</div>
 
 ---
 
