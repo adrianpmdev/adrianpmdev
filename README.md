@@ -107,6 +107,7 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| 🎮 **Steam Games Analysis** | Big Data project analyzing Steam games released 2020–2025 to find which genres and categories are worth developing | 🔗 [Repository](https://github.com/adrianpmdev/BigData-SteamGames) |
 | 🔗 **Link Checker** | Service that periodically checks that product links still work | 🔗 [Repository](https://github.com/adrianpmdev/link-checker) |
 | 📊 **Click Reports** | Service that turns product clicks into simple statistics and CSV reports | 🔗 [Repository](https://github.com/adrianpmdev/click-reports) |
 
