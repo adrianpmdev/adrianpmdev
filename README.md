@@ -77,7 +77,7 @@ I'm a junior full stack software developer with a Higher Technician degree in Mu
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🗓️ **EventvsMerida** | Mobile app that brings together the cultural and leisure agenda of Mérida, developed as a team | 🔗 [Repository](https://github.com/Null-Pointers-Albarregas/EventvsMerida) |
+| 🗓️ **EventvsMerida** | Mobile app that brings together the cultural and leisure agenda of Mérida, developed as a team | 🔗 [Repository](https://github.com/Null-Pointers-Devs/EventvsMerida) |
 | 🎵 **Spotify2** | Educational Android music app inspired by Spotify | 🔗 [Repository](https://github.com/adrianpmdev/Spotify2) |
 | ⏱️ **Time Tracker** | Mobile app to log the hours spent on each project | 🔗 [Repository](https://github.com/adrianpmdev/time-tracker) |
 
